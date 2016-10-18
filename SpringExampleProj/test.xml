@@ -1,3 +1,4 @@
+<!-- sample file -->
 <project name="MyProject" default="dist" basedir=".">
   <description>
     simple example build file
